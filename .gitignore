@@ -1,0 +1,9 @@
+.gradle
+build
+.vscode
+.DS_Store
+*.mv.db
+*.trace.db
+*.lock.db
+pid-list.txt
+bin
